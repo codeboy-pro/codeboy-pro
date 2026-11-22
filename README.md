@@ -30,19 +30,6 @@
 </div>
 
 ---
-
-## 💫 About Me
-
-I'm an **Information Technology** student and aspiring **Software Development Engineer (SDE)** passionate about engineering end-to-end web applications, exploring **AI/ML & Agentic systems**, and solving real-world problems with clean, scalable code.
-
-Developer_Profile:
-  🔭 Currently_Building: "FresherAI – Multi-Agent AI Interview Platform"
-  🌱 Currently_Learning: "Data Structures & Algorithms, Next.js, System Design & Agentic AI"
-  🤝 Open_To_Collaborate: "Full-Stack Development, AI/ML & Open-Source Projects"
-  🆘 Exploring_Help_With: "System Design, Advanced DSA & Generative AI"
-  💬 Ask_Me_About: "C++, JavaScript, React, Node.js, MongoDB, Next.js & Generative AI"
-  ⚡ Fun_Fact: "I love turning complex ideas into real-world software projects!"
- 
  # 💫 About Me:
 
 👋 Hi, I'm Pradip Maity, an Information Technology student and aspiring Software Development Engineer (SDE). I'm passionate about building full-stack web applications, exploring AI/ML technologies, and solving real-world problems through code.<br><br>🔭 I'm currently working on **FresherAI – Multi-Agent AI Interview Platform**<br><br>🤝 I'm looking to collaborate on **Full-Stack Development, AI/ML & Open-Source Projects**<br><br>🆘 I'm looking for help with **System Design, Advanced DSA & Generative AI**<br><br>🌱 I'm currently learning **Data Structures & Algorithms, Next.js, System Design & Agentic AI**<br><br>💬 Ask me about **C++, JavaScript, React, Node.js, MongoDB, Next.js & Generative AI**<br><br>⚡ Fun fact: **I love turning complex ideas into real-world software projects!**
